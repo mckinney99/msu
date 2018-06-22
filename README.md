@@ -12,7 +12,8 @@ LEARN:<br />
 -[Coding Game](https://www.codingame.com/start)<br />
 -[Disney Code Game](http://partners.disney.com/hour-of-code)<br />
 -[StackOverflow - search for problems in your code/debugging](https://stackoverflow.com/)<br />
--[FreeCodeCamp Video Series](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)<br /><br />
+-[FreeCodeCamp Video Series](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)<br />
+-[List of free coding lessons and resources](https://learntocodewith.me/posts/code-for-free/)<br /><br />
 
 CODE:<br />
 -To view tic-tac-toe, snake, rocket-run, OR create your own repl.it account [click here](https://repl.it/@mckinney99)<br />
